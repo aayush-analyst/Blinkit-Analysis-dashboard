@@ -43,12 +43,8 @@ This project analyzes sales and outlet performance for **Blinkit (India’s Last
 - `Images/dashboard_snapshot.png` → Screenshot of the dashboard  
 
 
-
-
-
-
-
 📢 Author
 
 👤 Aayush Pardeshi
-LinkedIn: Aayush Pardeshi
+
+
